@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila;Perpetual+Learner;Building+things+from+scratch)](https://git.io/typing-svg)
 
----
-  ## Right Now
+  ### Right Now
 - 🌍 Based in Taxila, Pakistan
 - 🎯 Focused on web development & frontend engineering
 - 🔨 Building — HMS Portfolio
@@ -48,7 +47,8 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmsaeed&theme=dark&hide_border=true)
+
+
 ---
 
 ## Projects
