@@ -1,14 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila;Perpetual+Learner;Building+things+from+scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=1000&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila;Perpetual+Learner;Building+things+from+scratch)](https://git.io/typing-svg)
 
   ### Right Now
-- 🌍 Based in Taxila, Pakistan
-- 🎯 Focused on web development & frontend engineering
+- 🎯 Focused on Web Development & Frontend engineering
 - 🔨 Building — HMS Portfolio
 - 🌱 Learning — JavaScript internals & C++ OOP
-- ♟️ Chess rating — 1200+ ELO improving ...
-- 🧠 Generalist by nature — finding the common THREAD
+- ♟️ Chess rating — 1200+ ELO
+- 🧠 Generalist by nature — searching for the common THREAD
 
----
 
 ## Tech Stack
 **Languages**
@@ -33,8 +31,6 @@
 &nbsp;&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=circle&logo=notion&logoColor=white)
 
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&theme=react-dark&hide_border=true)
 
 ![Hafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
@@ -48,10 +44,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
 
 
-
----
-
-## Projects
+## 🗂️ Projects
 
 ### 🗂️ HMS Portfolio
 Personal portfolio website built with vanilla HTML, CSS, and JavaScript — no frameworks, no shortcuts. Features a clean MVC architecture, ES modules, dark mode.
@@ -65,20 +58,21 @@ An e-library web app — Arabic for "House of Wisdom." Built to organize and sho
 
 ---
 
-## Currently Learning
-
-- JavaScript in depth — async, closures, the event loop, design patterns
-- OOP in C++ — polymorphism, inheritance, memory management
-- How real software systems are designed and structured
-
----
-
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hafizmsaeed101@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmsaeed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://hmsprofile.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=circle&logo=gmail&logoColor=white)](mailto:hafizmsaeed101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=circle&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmsaeed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=circle&logo=netlify&logoColor=white)](https://hmsprofile.netlify.app)
 
----
+
+<div align="center">
+
+<br>
 
 *"The ink of a scholar is holier than the blood of a martyr."*
+<br>
+<sub>— Prophet Muhammad ﷺ</sub>
+
+<br>
+
+</div>
