@@ -1,18 +1,13 @@
-# Hi, I'm Saeed
-CS student · Perpetual Learner · Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila;Perpetual+Learner;Building+things+from+scratch)](https://git.io/typing-svg)
 
 ---
-
-## About Me
-
-I'm a second-year Computer Science student at UET Taxila.
-
-When I'm not coding, I'm playing chess or table tennis, reading history, or going on long walks thinking about ideas.
-
+  ## Right Now
 - 🌍 Based in Taxila, Pakistan
 - 🎯 Focused on web development & frontend engineering
-- 🧠 Generalist by nature — I like learning broadly before going deep
-- 🚀 Currently building my personal portfolio from scratch
+- 🔨 Building — HMS Portfolio
+- 🌱 Learning — JavaScript internals & C++ OOP
+- ♟️ Chess rating — 1200+ ELO improving ...
+- 🧠 Generalist by nature — finding the common THREAD
 
 ---
 
@@ -41,6 +36,21 @@ When I'm not coding, I'm playing chess or table tennis, reading history, or goin
 
 ---
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&theme=react-dark&hide_border=true)
+
+![Hafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSaeed101&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HMSaeed101&theme=flat&no-frame=true&column=8)
+
+![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmsaeed&theme=dark&hide_border=true)
+---
+
 ## Projects
 
 ### 🗂️ HMS Portfolio
@@ -60,16 +70,6 @@ An e-library web app — Arabic for "House of Wisdom." Built to organize and sho
 - JavaScript in depth — async, closures, the event loop, design patterns
 - OOP in C++ — polymorphism, inheritance, memory management
 - How real software systems are designed and structured
-
----
-
-## GitHub Stats
-
-![Hafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSaeed101&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle)
 
 ---
 
