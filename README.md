@@ -40,39 +40,39 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HMSaeed101&theme=flat&no-frame=true&column=8)
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-## 🗂️ Projects
+# 🗂️ Amazing Repos
 
 ### 🗂️ HMS Portfolio
 Personal portfolio website built with vanilla HTML, CSS, and JavaScript — no frameworks, no shortcuts. Features a clean MVC architecture, ES modules, dark mode.
+&nbsp;&nbsp;&nbsp;&nbsp;
+> [Live →](https://hmsprofile.netlify.app) &nbsp;&nbsp;&nbsp;&nbsp; <br>
+> [ View Repo →](https://github.com/HMSaeed101/hms-portfolio)
 
-> [Live →](https://hmsprofile.netlify.app) · [Repo →](https://github.com/HMSaeed101/hms-portfolio)
-
-### 📚 Bayt al-Hikma
-An e-library web app — Arabic for "House of Wisdom." Built to organize and showcase a curated personal book collection across philosophy, Islamic history, science, and literature.
-
-> [Repo →](https://github.com/HMSaeed101/E-Library)
+### 📚 Bayt al-Hikma — "House of Wisdom"
+An E-Library web app — Built to organize and showcase a curated personal book collection across philosophy, Islamic history, science, and literature.
+&nbsp;&nbsp;&nbsp;&nbsp;
+> [ View Repo →](https://github.com/HMSaeed101/E-Library)
 
 ---
 
-## Contact
+## Contact ME
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=circle&logo=gmail&logoColor=white)](mailto:hafizmsaeed101@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=circle&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmsaeed)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=circle&logo=netlify&logoColor=white)](https://hmsprofile.netlify.app)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <div align="center">
-
 <br>
-
 *"The ink of a scholar is holier than the blood of a martyr."*
 <br>
 <sub>— Prophet Muhammad ﷺ</sub>
-
 <br>
-
 </div>
