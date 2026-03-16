@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=1000&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila;Perpetual+Learner;Building+things+from+scratch)](https://git.io/typing-svg)
 
+&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=circle&logo=netlify&logoColor=white)](https://hmsprofile.netlify.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
+
   ### Right Now
 - 🎯 Focused on Web Development & Frontend engineering
 - 🔨 Building — HMS Portfolio
@@ -34,40 +36,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&theme=react-dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSaeed101&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 <br>
-
-![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
-
-
-# 🗂️ Amazing Repos
-
-### 🗂️ HMS Portfolio
-Personal portfolio website built with vanilla HTML, CSS, and JavaScript — no frameworks, no shortcuts. Features a clean MVC architecture, ES modules, dark mode.
-&nbsp;&nbsp;&nbsp;&nbsp;
-> [Live →](https://hmsprofile.netlify.app) &nbsp;&nbsp;&nbsp;&nbsp; <br>
-> [ View Repo →](https://github.com/HMSaeed101/hms-portfolio)
-
-### 📚 Bayt al-Hikma — "House of Wisdom"
-An E-Library web app — Built to organize and showcase a curated personal book collection across philosophy, Islamic history, science, and literature.
-&nbsp;&nbsp;&nbsp;&nbsp;
-> [ View Repo →](https://github.com/HMSaeed101/E-Library)
-
----
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=circle&logo=gmail&logoColor=white)](mailto:hafizmsaeed101@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=circle&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmsaeed)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=circle&logo=netlify&logoColor=white)](https://hmsprofile.netlify.app)
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 <div align="center">
 <br>
