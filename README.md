@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=1000&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila;Perpetual+Learner;Building+things+from+scratch)](https://git.io/typing-svg)
 
-&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=circle&logo=netlify&logoColor=white)](https://hmsportfolio.netlify.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=circle&color=blue)
+
+&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&color=009688&logoColor=white)](https://hmsportfolio.netlify.app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=for-the-badge&color=009688&abbreviated=true&base=100)
+
 
   ### Right Now
 - 🎯 Focused on Web Development & Frontend engineering
@@ -38,12 +40,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=circle&logo=figma&logoColor=white)
 
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&custom_title=HMS'+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&theme=react-dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSaeed101&layout=compact&theme=dark&hide_border=true)
+![Wakatime Stats - Compact Layout](https://github-readme-stats.vercel.app/api/wakatime?username=hmsaeed&custom_title=%20Time%20Stats&langs_count=4&theme=dark&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSaeed101&custom_title=Languages%20Used&langs_count=4&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&custom_title=GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&count_private=true)
