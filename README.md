@@ -20,6 +20,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=circle&logo=css3&logoColor=white)
 &nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=circle&logo=javascript&logoColor=black)
+&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=circle&logo=python&logoColor=white)
 
 **Tools & Platforms**
 &nbsp;&nbsp;&nbsp;
@@ -32,6 +34,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=circle&logo=github&logoColor=white)
 &nbsp;&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=circle&logo=netlify&logoColor=white)
+&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=circle&logo=figma&logoColor=white)
+
+
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&theme=react-dark&hide_border=true)
@@ -41,13 +47,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HMSaeed101&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HMSaeed101&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-<br>
-
-<div align="center">
-<br>
-*"The ink of a scholar is holier than the blood of a martyr."*
-<br>
-<sub>— Prophet Muhammad ﷺ</sub>
-<br>
-</div>
