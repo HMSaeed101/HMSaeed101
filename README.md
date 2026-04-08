@@ -8,7 +8,7 @@
 - 🎯 Focused on Web Development & Frontend engineering
 - 🔨 Building — HMS Portfolio
 - 🌱 Learning — JavaScript internals & C++ OOP
-- ♟️ Chess rating — 1200+ ELO
+- ♟️ Chess rating — 1250+ ELO
 - 🧠 Generalist by nature — searching for the common THREAD
 
 
