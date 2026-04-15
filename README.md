@@ -5,11 +5,11 @@
 
 
   ### Right Now
-- 🎯 Focused on Web Development & Frontend engineering
+- 🎯 Focused on Web Development
 - 🔨 Building — HMS Portfolio
-- 🌱 Learning — JavaScript internals & C++ OOP
-- ♟️ Chess rating — 1250+ ELO
-- 🧠 Generalist by nature — searching for the common THREAD
+- 🌱 Learning — C++ OOP
+- ♟️ Chess.com 1300+ ELO *(username : HMS_aeed)*
+- 🧠 Generalist — searching for the common THREAD
 
 
 ## Tech Stack
@@ -35,9 +35,7 @@
 &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=circle&logo=github&logoColor=white)
 &nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=circle&logo=netlify&logoColor=white)
-&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=circle&logo=figma&logoColor=white)
+
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&custom_title=HMS'+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
